@@ -1,2 +1,3 @@
-Name : David Lee
-Now working : devleop albatross project.
+**Name** : David Lee
+
+**Working now** : devleop albatross project.
